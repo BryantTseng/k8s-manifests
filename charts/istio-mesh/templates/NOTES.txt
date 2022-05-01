@@ -1,0 +1,2 @@
+Please rememer to add injection to the namespace to enabled istio sidecar
+kubectl label namespace {NAMESPACE_TO_ENABLE}  istio-injection=enabled
